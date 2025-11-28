@@ -97,10 +97,5 @@ All answers are included as separate PDF files in the repository.
 * ReportLab (PDF generation)
 * Jupyter Notebook
 
----
 
-## 🤝 10. Contributions
 
-Pull requests and improvements are welcome!
-
----
